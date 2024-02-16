@@ -5,6 +5,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
+    "lint": "eslint .",
     "test": "mocha",
     "coverage": "istanbul cover _mocha"
   },
