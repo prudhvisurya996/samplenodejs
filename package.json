@@ -4,8 +4,7 @@
   "description": "A simple Node.js project with HTML page for user input",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "lint": "eslint .",
+    "start": "node server.js",    
     "test": "mocha",
     "coverage": "istanbul cover _mocha"
   },
